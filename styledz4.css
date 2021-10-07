@@ -1,0 +1,49 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.point {
+  display: inline-block;
+  color: black;
+  text-align: right;
+  font-size: 20px;
+  margin-right: 20px;
+}
+.one {
+  color: blue;
+}
+.text {
+  font-size: 20px;
+}
+.font-300 {
+  font-weight: 300;
+  color: red;
+  margin-top: 50px;
+}
+.font-500 {
+  font-weight: 500;
+  color: blue;
+}
+.font-700 {
+  font-weight: 700;
+  color: green;
+  margin-bottom: 50px;
+}
+.texttwo {
+  font-family: "Dancing Script", cursive;
+  font-size: 16px;
+}
+.box {
+  height: 100px;
+  width: 100px;
+  margin-right: 5px;
+  display: inline-block;
+}
+.blue {
+  background-color: blue;
+}
+.green {
+  background-color: green;
+}
+.yellow {
+  background-color: yellow;
+}
